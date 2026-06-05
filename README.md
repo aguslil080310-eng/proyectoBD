@@ -1,2 +1,6 @@
-# proyectoBD
-proyecto base de datos
+# ProyectoBD
+
+Integrantes:
+- López Agustín
+- Ferrario Felipe
+- Pezzano Lautaro
